@@ -1,11 +1,5 @@
 @app-browser
 #http://app.2345.com/mob.htm
-127.0.0.1 2345api.dftoutiao.com
-127.0.0.1 2345apicode.dftoutiao.com
-127.0.0.1 actlog.dftoutiao.com
-127.0.0.1 imgsreview.dftoutiao.com
-127.0.0.1 pclog.dftoutiao.com
-127.0.0.1 pcsoftwords.dftoutiao.com
 127.0.0.1 houtai.2345.com
 #http://browser.lenovo.com/
 127.0.0.1 ad.gtbrowser.com
@@ -22,8 +16,6 @@
 127.0.0.1 mqqadr.reader.qq.com
 127.0.0.1 news.mpush.qq.com
 127.0.0.1 canvas.gdt.qq.com
-127.0.0.1 pcbrowser.dd.qq.com
-127.0.0.1 stdl.qq.com
 #http://mse.360.cn/
 127.0.0.1 g.sdk.look.360.cn
 127.0.0.1 sdk.look.360.cn

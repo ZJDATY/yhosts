@@ -53,6 +53,9 @@
 127.0.0.1 tb104x.corp.youdao.com
 127.0.0.1 tb060x.corp.youdao.com
 127.0.0.1 adpublish.ydstatic.com
+#bayimob.com
+127.0.0.1 hdggcdn.bayimob.com
+127.0.0.1 interaction.bayimob.com
 #baidu1
 127.0.0.1 adscdn.baidu.com
 127.0.0.1 api.cpu.baidu.com
@@ -142,10 +145,12 @@
 127.0.0.1 cv.1o26.com
 127.0.0.1 i.1o26.com
 #2345
-127.0.0.1 zhushou.2345.com
+127.0.0.1 bdcode.2345.com
+127.0.0.1 bdsearch.2345.com
 127.0.0.1 jifen.2345.com
 127.0.0.1 tg.jifen.2345.com
 127.0.0.1 wan.2345.com
+127.0.0.1 zhushou.2345.com
 127.0.0.1 app.50bang.org
 127.0.0.1 guess.union2.50bang.org
 127.0.0.1 js.50bang.org
@@ -173,13 +178,14 @@
 127.0.0.1 stage.3gmimo.com
 127.0.0.1 www.3gmimo.com
 #51la
-127.0.0.1 tc.51la.net
+127.0.0.1 ia.51.la
 127.0.0.1 icon.51.la
+127.0.0.1 icon.users.51.la
 127.0.0.1 img.users.51.la
 127.0.0.1 js.users.51.la
-127.0.0.1 icon.users.51.la
 127.0.0.1 js3.users.51.la
 127.0.0.1 quote.51.la
+127.0.0.1 tc.51la.net
 127.0.0.1 vip.51.la
 127.0.0.1 web.51.la
 127.0.0.1 web1.51.la
@@ -431,6 +437,7 @@
 127.0.0.1 jsmedia.adsame.com
 127.0.0.1 mail.adsame.com
 127.0.0.1 material.jfdaily.adsame.com
+127.0.0.1 mapping.adsame.com
 127.0.0.1 max.adsame.com
 127.0.0.1 maxsys.adsame.com
 127.0.0.1 meihua.adsame.com
@@ -746,6 +753,7 @@
 127.0.0.1 static.gridsumdissector.com
 #growingio.com
 127.0.0.1 api.growingio.com
+127.0.0.1 assets.growingio.com
 127.0.0.1 apihk.growingio.com
 127.0.0.1 crashapi.growingio.com
 127.0.0.1 t.growingio.com
@@ -753,6 +761,7 @@
 127.0.0.1 growingio.com
 127.0.0.1 www.growingio.com
 #irs
+127.0.0.1 irs01.com
 127.0.0.1 a.irs01.com
 127.0.0.1 h.irs01.com
 127.0.0.1 iqiyi.irs01.com
@@ -762,6 +771,7 @@
 127.0.0.1 sohu.irs01.com
 127.0.0.1 v.irs01.com
 127.0.0.1 v12-r0566gbscjw.z.irs01.com
+127.0.0.1 v13-6173431.z.irs01.com
 127.0.0.1 yyt.irs01.com
 #jesgoo
 127.0.0.1 cdn.jesgoo.com
@@ -776,6 +786,7 @@
 #jiguang.cn
 127.0.0.1 im.jpush.cn
 127.0.0.1 im64.jpush.cn
+127.0.0.1 ali-stats.jpush.cn
 127.0.0.1 s.jpush.cn
 127.0.0.1 stats.jpush.cn
 127.0.0.1 sis.jpush.io
@@ -890,6 +901,7 @@
 127.0.0.1 fancy-cm.cn.miaozhen.com
 127.0.0.1 g.ads.cn.miaozhen.com
 127.0.0.1 g.cn.miaozhen.com
+127.0.0.1 hunantv-ipdx.cn.miaozhen.com
 127.0.0.1 hunantv.m.cn.miaozhen.com
 127.0.0.1 iqiyi.m.cn.miaozhen.com
 127.0.0.1 js.miaozhen.com
@@ -979,7 +991,6 @@
 127.0.0.1 b.qchannel03.cn
 127.0.0.1 fd.qchannel03.cn
 127.0.0.1 www.qchannel04.cn
-#qtmojo
 #qucaigg.com
 127.0.0.1 2018.qucaigg.com
 127.0.0.1 77kb.qucaigg.com
